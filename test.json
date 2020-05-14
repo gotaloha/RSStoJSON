@@ -1,0 +1,46 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:georss": "http://www.georss.org/georss",
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom"
+    },
+    "channel": {
+      "title": "NDBC - Station 51101 - NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI   Observations",
+      "description": "This feed shows recent marine weather observations from Station 51101.",
+      "link": "https://www.ndbc.noaa.gov/",
+      "pubDate": "Thu, 14 May 2020 13:35:24 +0000",
+      "lastBuildDate": "Thu, 14 May 2020 13:35:24 +0000",
+      "ttl": "30",
+      "language": "en-us",
+      "managingEditor": "webmaster.ndbc@noaa.gov (NDBC Webmaster)",
+      "webMaster": "webmaster.ndbc@noaa.gov (NDBC Webmaster)",
+      "image": {
+        "url": "https://www.ndbc.noaa.gov/images/noaa_nws_xml_logo.gif",
+        "title": "NDBC - Station 51101 - NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI   Observations",
+        "link": "https://www.ndbc.noaa.gov/"
+      },
+      "atom:link": {
+        "$": {
+          "href": "https://www.ndbc.noaa.gov/data/latest_obs/51101.rss",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "item": {
+        "pubDate": "Thu, 14 May 2020 13:35:24 +0000",
+        "title": "Station 51101 - NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI  ",
+        "description": "\n        <strong>May 14, 2020 3:20 am HAST</strong><br />\n        <strong>Location:</strong> 24.361N 162.075W<br />\n        <strong>Wind Direction:</strong> S (190&#176;)<br />\n        <strong>Wind Speed:</strong> 5.8 knots<br />\n        <strong>Wind Gust:</strong> 7.8 knots<br />\n        <strong>Atmospheric Pressure:</strong> 29.98 in (1015.3 mb)<br />\n        <strong>Air Temperature:</strong> 74.1&#176;F (23.4&#176;C)<br />\n        <strong>Dew Point:</strong> 68.0&#176;F (20.0&#176;C)<br />\n        <strong>Water Temperature:</strong> 76.1&#176;F (24.5&#176;C)<br />\n      ",
+        "link": "https://www.ndbc.noaa.gov/station_page.php?station=51101",
+        "guid": {
+          "_": "NDBC-51101-20200514132000",
+          "$": {
+            "isPermaLink": "false"
+          }
+        },
+        "georss:point": "24.361 -162.075"
+      }
+    }
+  }
+}

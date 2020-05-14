@@ -1,0 +1,16 @@
+{
+  "name": "RSS to JSON",
+  "version": "1.0.0",
+  "description": "Retrieves RSS feed from URL, converts to JSON, and then saves a file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Olson",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.5",
+    "xmljson": "^0.2.0"
+  }
+}
